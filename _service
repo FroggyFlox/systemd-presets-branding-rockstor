@@ -3,6 +3,7 @@
     <param name="url">git://github.com/FroggyFlox/systemd-presets-branding-rockstor.git</param>
     <param name="scm">git</param>
   </service>
+<!-- Comment out default settings below as not needed for now -->
 <!--  <service mode="buildtime" name="tar" />-->
 <!--  <service mode="buildtime" name="recompress">-->
 <!--    <param name="file">*.tar</param>-->
