@@ -20,7 +20,7 @@ enable NetworkManager.service
 enable NetworkManager-dispatcher.service
 enable bluetooth.*
 
-# rockstor
+# Rockstor
 enable rockstor.service
 #disable nginx.service
 #disable sendmail
