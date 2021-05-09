@@ -1,4 +1,5 @@
 # settings from systemd-presets-branding-openSUSE
+# https://build.opensuse.org/package/show/Base:System/systemd-presets-branding-openSUSE
 enable appstream-sync-cache.service
 enable cups.path
 enable cups.service
